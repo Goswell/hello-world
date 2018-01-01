@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+My first repository.
+I wanna be a Sharp guy on TensorFLow!
+Bless it.
